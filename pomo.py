@@ -16,7 +16,7 @@ def main(minutes):
     print("The Pomo Timer is set")
 
     for _ in range(minutes):
-        time.sleep(2)
+        time.sleep(60)
         print("       ||  ")
 
     print("      STOP")
