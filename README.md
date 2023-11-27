@@ -1,2 +1,3 @@
 # Pomo
-Simple and Light Pomo timer
+
+Simple and Light Pomo timer 🍅
